@@ -4,8 +4,8 @@
   <li>Main page</li>
 </ul>
 
-Use login: admin and password: admin for the demonstration of the second page.
-
+_Use login: admin and password: admin for the demonstration of the second page.
+_
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
