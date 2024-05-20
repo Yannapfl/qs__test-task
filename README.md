@@ -1,5 +1,5 @@
 <h2>Test task for the Qazaq Stroy.</h2>
-<ul>There are 2 pages in the project:
+<ul><h3>There are 2 pages in the project:<h3>
   <li>Authentication page</li>
   <li>Main page</li>
 </ul>
