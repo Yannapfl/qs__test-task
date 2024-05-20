@@ -1,0 +1,57 @@
+.sign-form {
+    display: block;
+    margin: 5em auto;
+    padding: 5em 7em;
+    width: 570px;
+    height: 521px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.sign-form__label {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    margin: 1em auto;
+    text-align: left;
+
+    font-size: 13px;
+    color: #6B7A80;
+}
+
+.sign-form__input {
+    width: 92%;
+}
+
+.password {
+    position: relative;
+}
+
+.password-input {
+    position: relative;
+    z-index: 1;
+}
+
+.btn-view {
+    position: absolute;
+    z-index: 1000;
+    top: 2em;
+    right: 0.2em;
+
+    background-color: transparent;
+    border: none;
+}
+
+.btn-submit {
+    padding: 1.5em 3em;
+    margin: 24px auto;
+    width: 100%;
+}
+
+.error-message {
+    margin: -1.4em 0 auto 10px;
+    text-align: left;
+    font: normal 13px/18px 'Inter';
+    color: red;
+}

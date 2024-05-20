@@ -1,0 +1,48 @@
+.form-search {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin: 1em;
+}
+
+.search-input {
+    width: 18%;
+    margin: 0;
+    padding: 1.1em 10px 0.9em 30px;
+    border: 1px solid #C0C0C0;
+    border-radius: 4px;
+
+    background-image: url('../../../../assests/icons/Search.svg');
+    background-repeat: no-repeat;
+    background-position: 10px center; 
+}
+
+.form-search > .btn {
+    margin: 0 0.2em;
+    padding: 0 2.2em;
+    font: normal 14px/0px 'Inter';
+}
+
+.flex-body {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 1em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn-group {
+    position: fixed;
+    bottom: 2em;
+    left: 2em;
+}
+
+.text-message {
+    position: absolute;
+    width: 40%;
+    white-space: nowrap;
+    font-size: 16px;
+}

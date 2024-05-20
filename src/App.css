@@ -1,0 +1,41 @@
+::placeholder {
+  font: normal 16px/0px 'Inter';
+  color: #9CA3AF;
+}
+
+.btn {
+  background-color: #00A0E3;
+  border: 0px;
+  border-radius: 4px;
+  font: normal 16px/0px 'Inter Medium';
+  color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.empty {
+  width: auto;
+}
+
+.border-right {
+  border-right: 2px solid #DEE4E8;
+}
+
+.w-170px {
+  width: 170px;
+}
+
+.w-240px {
+  width: 240px;
+}
+
+.w-40px {
+  width: 40px;
+  padding: 0;
+}
+
+.color-grey {
+  color: #6B7A80;
+}

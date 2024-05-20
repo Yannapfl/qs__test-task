@@ -1,0 +1,36 @@
+.icon-button {
+    margin: 0.2em;
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+.icon-button.left,
+.icon-button.left.disable {
+    background: url('../../../../assests/icons/IconArrowLeft.svg') center / 25% no-repeat;
+}
+
+.icon-button.right,
+.icon-button.right.disable {
+    background: url('../../../../assests/icons/IconArrowRight.svg') center / 25% no-repeat;
+}
+
+.icon-button.first,
+.icon-button.first.disable {
+    background: url('../../../../assests/icons/IconArrowFirst.svg') center / 35% no-repeat;
+}
+
+.icon-button.last,
+.icon-button.last.disable {
+    background: url('../../../../assests/icons/IconArrowLast.svg') center / 35% no-repeat;
+}
+
+.icon-button.left.disable,
+.icon-button.right.disable,
+.icon-button.first.disable,
+.icon-button.last.disable {
+    pointer-events: none;
+    filter: invert(62%) sepia(14%) saturate(318%) hue-rotate(210deg) brightness(91%) contrast(92%);
+
+}
