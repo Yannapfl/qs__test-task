@@ -4,7 +4,7 @@
   <li>Main page</li>
 </ul>
 
-<p>Use login: admin and password: admin for the demonstration of the second page.</p>
+<p>Use **login: admin** and **password: admin** for the demonstration of the second page.</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
